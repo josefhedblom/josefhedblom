@@ -2,9 +2,9 @@
 ## Javascript/React Developer 
 
 I'm a software developer that love technology and spend a lot of time deepening my knowledge, staying up to date and discovering new tools. 
-I have developed web applications using React and React Native. 
+I use React.js, React Native, Node.js and Express.js to develop web applications. 
 <br/>
-I am an ambitious person who loves to work in a team, propose ideas and collaborate.  
+I am an ambitious person who loves to work in a team, propose ideas and collaborate. 
 
 - 🌍  I'm based in Stockholm 
 - 🏠  [Website] [https://josefhedblom.se](https://josefhedblom.se)
