@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFoi6YRvl1zjw/profile-displaybackgroundimage-shrink_350_1400/0/1672441291524?e=1678320000&v=beta&t=TPFpuUNXeNJEThSV252j-o0BPn9Oa3XlgDTotTTjD0o" alt="header-img"/>
-
 # Hi 👋 My name is Josef Hedblom 
 ## Javascript/React Developer 
 
